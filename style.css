@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+
+
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    font-weight: 800px;
+    text-align: center;
+
+}
+
+button {
+    background-color: gray;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+input {
+    margin: 20px;
+    height: 70px;
+    width: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+
+}
+
+.answer {
+    text-align: center;
+    font-family: "Emblema One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
